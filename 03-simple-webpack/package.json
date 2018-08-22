@@ -1,0 +1,8 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Installing webpack",
+  "main": "index.js",
+  "author": "Roger Podacter",
+  "license": "MIT"
+}
